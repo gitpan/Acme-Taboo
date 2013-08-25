@@ -27,13 +27,13 @@ no_index:
 provides:
   Acme::Taboo:
     file: lib/Acme/Taboo.pm
-    version: 0
+    version: 0.01
 requires:
   perl: 5.008005
 resources:
   bugtracker: https://github.com/ytnobody/Acme-Taboo/issues
   homepage: https://github.com/ytnobody/Acme-Taboo
   repository: git://github.com/ytnobody/Acme-Taboo.git
-version: 0
+version: 0.01
 x_contributors:
-  - 'ytnobody <ytnobody@gmail.com>'
+  - 'ytnobody / satoshi azuma <ytnobody@gmail.com>'
